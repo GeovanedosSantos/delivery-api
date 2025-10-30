@@ -4,7 +4,7 @@ Sistema de delivery desenvolvido com Spring Boot e Java 21.
 
 ## 🚀 Tecnologias
 - **Java 21 LTS** (versão mais recente)
-- Spring Boot 3.2.x
+- Spring Boot 3.5.7
 - Spring Web
 - Spring Data JPA
 - H2 Database
@@ -33,5 +33,5 @@ Sistema de delivery desenvolvido com Spring Boot e Java 21.
 - Profile: development
 
 ## 👨‍💻 Desenvolvedor
-[Geovane ] - [Curso de Extensão Java e Spring Boot]  
-Desenvolvido com JDK 21 e Spring Boot 3.2.x
+Geovane - Curso de Extensão Java e Spring Boot
+Desenvolvido com JDK 21 e Spring Boot 3.5.7
